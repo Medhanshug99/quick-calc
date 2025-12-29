@@ -8,9 +8,8 @@ A simple and intuitive **web calculator** that performs arithmetic operations in
 
 - **Add**, **Subtract**, **Multiply**, and **Divide** with real-time results.   
 - **Decimal support** for precise calculations.   
-- **Division-by-zero protection** with clear error messages.  
-- **Responsive design** - works on desktop, tablet, and mobile.   
-- **localStorage persistence** for calculator history (optional).  
+- **Division-by-zero protection** with clear messages.  
+- **Responsive design** - works on desktop, tablet, and mobile.     
 - **Clean, minimal UI** with instant feedback.   
 
 ---
