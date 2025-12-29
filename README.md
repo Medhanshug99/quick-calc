@@ -18,7 +18,7 @@ A simple and intuitive **web calculator** that performs arithmetic operations in
 
 Check out the live version here:
 
-**Live Preview:** [Quick-Calc on Netlify]--(https://quick-calc-7.netlify.app/)
+**Live Preview:** https://quick-calc-7.netlify.app/
 
 ---
 
